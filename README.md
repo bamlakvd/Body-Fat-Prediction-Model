@@ -8,8 +8,8 @@ A ML model that allow to predict body fat.
 * README.md              # The face of your project
 * requirements.txt       # Software dependencies
 
-├── 📂 data/                   # Dataset storage (Large raw files are git-ignored)
-├── 📂 notebooks/              # Exploratory prototyping & research
+├── 📂 data/                   # Dataset storage (Large raw files are git-ignored) \n
+├── 📂 notebooks/              # Exploratory prototyping & research \n
 │   ├── 01_eda.ipynb           # Data distributions & correlation analysis
 │   └── 02_modeling.ipynb      # Model training, tuning, and evaluation
 ├── 📂 src/                    # Modular, production-ready source code
